@@ -22,7 +22,7 @@ class BrowserManager(object):
         options.add_argument("--window-size=1920,1080")
         options.add_argument('--disable-dev-shm-usage')
         # user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.127 Safari/537.36"
-        options.add_argument(f"--useragent={user_agent}")
+        # options.add_argument(f"--useragent={user_agent}")
         options.add_argument('--no-sandbox')
         # options.add_argument("--headless")
         options.add_experimental_option("excludeSwitches", [
