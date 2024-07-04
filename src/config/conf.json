@@ -1,0 +1,595 @@
+{
+  "boat": {
+    "boat_home_page": {
+      "name": "Boat Mart 'HOMEPAGE'",
+      "url": "https://{env}.boatmart.com/"
+    },
+    "boat_search_page": {
+      "name": "Boat Mart 'SEARCH RESULT PAGE'",
+      "url": "https://{env}.boatmart.com/boats-for-sale"
+    },
+    "boat_advance_search_page": {
+      "name": "Boat Mart 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.boatmart.com/find-boats-for-sale?"
+    },
+    "boat_dealer_page": {
+      "name": "Boat Mart 'DEALER PAGE'",
+      "url": "https://{env}.boatmart.com/boat-dealers"
+    },
+    "boat_dealer_group_page": {
+      "name": "Boat Mart 'DEALER GROUP PAGE'",
+      "url": "https://{env}.boatmart.com/boat-dealers/detail/Vicars+Powersports-5000007107?dealerid=2918702"
+    },
+    "boat_dealer_gallery_page": {
+      "name": "Boat Mart 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.boatmart.com/boat-dealers/detail/TraderTraxx+Webinar+Demo+-+Marine-5000006065?dealerid=5000006065"
+    },
+    "boat_vdp_dev":{
+      "name": "Boat Mart 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.boatmart.com/listing/2022-Air+Gator+Inc-AGI-5027022150"
+    },
+    "boat_vdp_prod":{
+      "name": "Boat Mart 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.boatmart.com/listing/2013-Sea+Ray-420+SUNDECK-5024453265"
+    },
+    "make_input": ["Bennington","Bayliner"],
+    "pop_make": "Bennington",
+    "model_input": "cie",
+    "dealer_name_input": "Pop Yachts",
+    "keyword_input": "yam"
+  },
+  "commercial_truck": {
+    "ctt_home_page": {
+      "name": "Commercial Truck 'HOMEPAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/"
+    },
+    "ctt_search_page": {
+      "name": "Commercial Truck 'SEARCH RESULT PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/trucks-for-sale"
+    },
+    "ctt_advance_search_page": {
+      "name": "Commercial Truck 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/advanced-search?"
+    },
+    "ctt_dealer_page": {
+      "name": "Commercial Truck 'DEALER PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/dealers"
+    },
+    "ctt_dealer_group_page": {
+      "name": "Commercial Truck 'DEALER GROUP PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/dealergroups/detail/5000000382?"
+    },
+    "ctt_dealer_group_page_for_trailer_filter": {
+      "name": "Commercial Truck 'DEALER GROUP PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/dealergroups/detail/5000001429"
+    },
+    "ctt_dealer_gallery_page_for_trailer_filter": {
+      "name": "Commercial Truck 'DEALER GROUP PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/dealers/Gwinnett+Place+Nissan/5000001533"
+    },
+    "ctt_dealer_gallery_page": {
+      "name": "Commercial Truck 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/dealers/Trader+Interactive+Testing/5000000009?dealerid=5000000009"
+    },
+    "ctt_sell_page": {
+      "name": "Commercial Truck 'SELL PAGE'",
+      "url": "https://{env}.commercialtrucktrader.com/sell"
+    },
+    "ctt_vdp_dev":{
+      "name": "Commercial Truck 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.commercialtrucktrader.com/listing/2021-A-OK+TRAILERS-TRAILER-5025939626"
+    },
+    "ctt_vdp_prod":{
+      "name": "Commercial Truck 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.commercialtrucktrader.com/listing/2018-CHEVROLET-SILVERADO-5024369879"
+    },
+    "best_package":{
+      "less_than_20000": "$206.95",
+      "between_20000_29999": "$217.95",
+      "between_30000_39999": "$240.95",
+      "between_40000_59999": "$264.95",
+      "between_60000_90000": "$275.95",
+      "more_than_90000": "$286.95"
+    },
+    "basic_package":{
+      "less_than_20000": "$68.95",
+      "between_20000_29999": "$79.95",
+      "between_30000_39999": "$91.95",
+      "between_40000_59999": "$114.95",
+      "between_60000_90000": "$126.95",
+      "more_than_90000": "$137.95"
+    },
+    "enhanced_package":{
+      "less_than_20000": "$114.95",
+      "between_20000_29999": "$125.95",
+      "between_30000_39999": "$148.95",
+      "between_40000_59999": "$171.95",
+      "between_60000_90000": "$184.95",
+      "more_than_90000": "$194.95"
+    },
+    "selling_prices":{
+      "less_than_20000": "10000",
+      "between_20000_29999": "22000",
+      "between_30000_39999": "35000",
+      "between_40000_59999": "45000",
+      "between_60000_90000": "70000",
+      "more_than_90000": "200000"
+    },
+    "price_below_threshold_paa": "200",
+    "low_price_alert_paa": "This listing price is invalid, please do not enter a price below $450",
+    "make_input": [
+      "CHEVROLET",
+      "FREIGHTLINER",
+      "PETERBILT",
+      "INTERNATIONAL"
+    ],
+    "model": "Avalanche",
+    "trim": "1500 NORTH FACE",
+    "type": "Class 5 (GVW 16001 - 19500)",
+    "pop_make": "PETERBILT",
+    "model_input": "cas",
+    "dealer_name_input": "Wiesner",
+    "keyword_input": "fre",
+    "trailer_gs_icon_name": "Trailers",
+    "trailer_without_hitch_n_axles": "Dolliy Trailer",
+    "mlf": {
+      "trk_or_van": "Trucks/Vans",
+      "trailer": "Trailers",
+      "body": "Body Only"
+    }
+  },
+  "rv": {
+    "rv_home_page": {
+      "name": "RV Trader 'HOMEPAGE'",
+      "url": "https://{env}.rvtrader.com/"
+    },
+    "rv_search_page": {
+      "name": "RV Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.rvtrader.com/rvs-for-sale"
+    },
+    "rv_advance_search_page": {
+      "name": "RV Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.rvtrader.com/find-rvs-for-sale?"
+    },
+    "rv_dealer_page": {
+      "name": "RV Trader 'DEALER PAGE'",
+      "url": "https://{env}.rvtrader.com/rv-dealers"
+    },
+    "rv_dealer_group_page": {
+      "name": "RV Trader 'DEALER GROUP PAGE'",
+      "url": "https://{env}.rvtrader.com/dealergroups/detail/5000001244?"
+    },
+    "rv_dealer_gallery_page": {
+      "name": "RV Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.rvtrader.com/rv-dealers/detail/RV+Demo+Dealer-5000003022?dealerid=5000003022"
+    },
+    "rv_sell_page": {
+      "name": "RV Trader 'SELL PAGE'",
+      "url": "https://{env}.rvtrader.com/sell"
+    },
+    "rv_vdp_dev":{
+      "name": "RV Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.rvtrader.com/listing/2021-Airstream-CLASSIC+180BH-5014125025"
+    },
+    "rv_vdp_prod":{
+      "name": "RV Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.rvtrader.com/listing/2021-Adam+Trailers-JULITE-5022379332"
+    },
+    "make_input": [
+      "Forest River",
+      "Keystone",
+      "Grand Design"
+    ],
+    "best_package":{
+      "less_than_20000": "$199.95",
+      "between_20000_29999": "$229.95",
+      "between_30000_39999": "$259.95",
+      "between_40000_59999": "$289.95",
+      "between_60000_90000": "$319.95",
+      "more_than_90000": "$349.95"
+    },
+    "basic_package":{
+      "less_than_20000": "$79.95",
+      "between_20000_29999": "$99.95",
+      "between_30000_39999": "$119.95",
+      "between_40000_59999": "$139.95",
+      "between_60000_90000": "$159.95",
+      "more_than_90000": "$179.95"
+    },
+    "enhanced_package":{
+      "less_than_20000": "$129.95",
+      "between_20000_29999": "$149.95",
+      "between_30000_39999": "$169.95",
+      "between_40000_59999": "$189.95",
+      "between_60000_90000": "$209.95",
+      "more_than_90000": "$229.95"
+    },
+    "selling_prices":{
+      "less_than_20000": "10000",
+      "between_20000_29999": "22000",
+      "between_30000_39999": "35000",
+      "between_40000_59999": "45000",
+      "between_60000_90000": "70000",
+      "more_than_90000": "200000"
+    },
+    "price_below_threshold_paa": "140",
+    "low_price_alert_paa": "This listing price is invalid, please do not enter a price below $180",
+    "model": "Cardinal",
+    "trim": "29RKLE",
+    "type": "Toy Hauler",
+    "pop_make": "Winnebago",
+    "model_input": "pas",
+    "dealer_name_input": "Prestige",
+    "keyword_input": "for"
+  },
+  "cycle": {
+    "cycle_home_page": {
+      "name": "Cycle Trader 'HOMEPAGE'",
+      "url": "https://{env}.cycletrader.com/"
+    },
+    "cycle_search_page": {
+      "name": "Cycle Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.cycletrader.com/motorcycles-for-sale"
+    },
+    "cycle_advance_search_page": {
+      "name": "Cycle Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.cycletrader.com/find-motorcycles-for-sale?"
+    },
+    "cycle_dealer_page": {
+      "name": "Cycle Trader 'DEALER PAGE'",
+      "url": "https://{env}.cycletrader.com/motorcycle-dealers"
+    },
+    "cycle_dealer_group_page": {
+      "name": "Cycle Trader 'DEALER GROUP PAGE'",
+      "url": "https://{env}.cycletrader.com/dealergroups/detail/5000001393?"
+    },
+    "cycle_dealer_gallery_page": {
+      "name": "Cycle Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.cycletrader.com/motorcycle-dealers/detail/TraderCycle-2896268?dealerid=2896268"
+    },
+    "cycle_buy_online_page": {
+      "name": "Cycle Trader 'BUY ONLINE PAGE'",
+      "url": "https://{env}.cycletrader.com/buy-online"
+    },
+    "cycle_buy_now_demo_dealer":{
+      "name": "Cycle Trader 'BUY NOW DEMO DEALER PAGE'",
+      "url": "https://{env}.cycletrader.com/motorcycle-dealers/detail/King+Kawasaki-2653178?dealerid=2653178&buyOnline=true"
+    },
+    "cycle_sell_page": {
+      "name": "Commercial Truck 'SELL PAGE'",
+      "url": "https://{env}.cycletrader.com/sell"
+    },
+    "cycle_login_page":{
+      "name": "Cycle Trader 'Classic Login Page'",
+      "url": "https://{env}.cycletrader.com/myt/login?classic=true"
+    },
+    "cycle_vdp_dev":{
+      "name": "Cycle Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.cycletrader.com/listing/2023-Slingshot-Slingshot+R+AutoDrive-5026997048"
+    },
+    "cycle_vdp_prod":{
+      "name": "Cycle Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.cycletrader.com/listing/2023-ACM-BOBBER+CHOPPER-5030116210"
+    },
+    "best_package":{
+      "less_than_5000": "$45.95",
+      "between_5000_9999": "$79.95",
+      "between_10000_14999": "$114.95",
+      "between_15000_19999": "$137.95",
+      "between_20000_30000": "$206.95",
+      "more_than_30000": "$263.95"
+    },
+    "basic_package":{
+      "less_than_5000": "$10.95",
+      "between_5000_9999": "$22.95",
+      "between_10000_14999": "$33.95",
+      "between_15000_19999": "$56.95",
+      "between_20000_30000": "$91.95",
+      "more_than_30000": "$114.95"
+    },
+    "enhanced_package":{
+      "less_than_5000": "$22.95",
+      "between_5000_9999": "$45.95",
+      "between_10000_14999": "$68.95",
+      "between_15000_19999": "$91.95",
+      "between_20000_30000": "$137.95",
+      "more_than_30000": "$171.95"
+    },
+    "selling_prices":{
+      "less_than_5000": "2999",
+      "between_5000_9999": "7999",
+      "between_10000_14999": "12999",
+      "between_15000_19999": "17999",
+      "between_20000_30000": "25999",
+      "more_than_30000": "199999"
+    },
+    "price_below_threshold_paa": "100",
+    "low_price_alert_paa": "This listing price is invalid, please do not enter a price below $120",
+    "model": "Aquatrax",
+    "trim": "F-12X GPSCAPE",
+    "keyword_input": "hon",
+    "model_input": "cb",
+    "make_input": [
+      "Ducati",
+      "Honda",
+      "Kawasaki"
+    ],
+    "pop_make": "Honda",
+    "dealer_name_input": "Lake Norman Powersports"
+  },
+  "equipment": {
+    "equipment_home_page": {
+      "name": "Equipment Trader 'HOMEPAGE'",
+      "url": "https://{env}.equipmenttrader.com/"
+    },
+    "equipment_search_page": {
+      "name": "Equipment Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.equipmenttrader.com/equipment-for-sale"
+    },
+    "equipment_advance_search_page": {
+      "name": "Equipment Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.equipmenttrader.com/advanced-search"
+    },
+    "equipment_dealer_page": {
+      "name": "Equipment Trader 'DEALER PAGE'",
+      "url": "https://{env}.equipmenttrader.com/dealers"
+    },
+    "equipment_dealer_group_page": {
+      "name": "Equipment Trader 'DEALER GROUP PAGE'",
+      "url": "https://{env}.equipmenttrader.com/dealergroups/detail/5000001429"
+    },
+    "equipment_dealer_gallery_page": {
+      "name": "Equipment Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.equipmenttrader.com/dealers/Equipment+Trader+Demo/2826542?dealerid=2826542"
+    },
+    "equipment_vdp_dev":{
+      "name": "Equipment Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.equipmenttrader.com/listing/2023-MACK-GRANITE-5024447384"
+    },
+    "equipment_vdp_prod":{
+      "name": "Equipment Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.equipmenttrader.com/listing/2019-Massey+Ferguson-PSS48-5020152292"
+    },
+    "keyword_input": "cat",
+    "dealer_name_input": "Redline Trailers",
+    "trailer_without_hitch_n_axles": "Live Floor Trailer",
+    "make_input": [
+      "CATERPILLAR"
+    ],
+    "pop_make": "CATERPILLAR"
+  },
+  "atv": {
+    "atv_home_page": {
+      "name": "ATV Trader 'HOMEPAGE'",
+      "url": "https://{env}.atvtrader.com/"
+    },
+    "atv_search_page": {
+      "name": "ATV Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.atvtrader.com/atvs-for-sale"
+    },
+    "atv_advance_search_page": {
+      "name": "ATV Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.atvtrader.com/find-atvs-for-sale?"
+    },
+    "atv_dealer_page": {
+      "name": "ATV Trader 'DEALER PAGE'",
+      "url": "https://{env}.atvtrader.com/atv-dealers"
+    },
+    "atv_dealer_group_page": {
+      "name": "ATV Trader 'DEALER GROUP PAGE'",
+      "url": "https://{env}.atvtrader.com/dealergroups/detail/5000000912?"
+    },
+    "atv_dealer_gallery_page": {
+      "name": "ATV Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.atvtrader.com/atv-dealers/detail/TraderCycle-2896268?dealerid=2896268"
+    },
+    "atv_vdp_dev":{
+      "name": "ATV Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.atvtrader.com/listing/2018-Honda-GOLD+WING+1200-5012485714"
+    },
+    "atv_vdp_prod":{
+      "name": "ATV Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.atvtrader.com/listing/2020-Aetric-4PLUS-5027668175"
+    },
+    "keyword_input": "yam",
+    "model_input": "gen",
+    "dealer_name_input": "Grand Prix",
+    "make_input": [
+      "Can-Am",
+      "Polaris",
+      "Yamaha"
+    ],
+    "pop_make": "Honda"
+  },
+  "pwc": {
+    "pwc_home_page": {
+      "name": "PWC Trader 'HOMEPAGE'",
+      "url": "https://{env}.pwctrader.com/"
+    },
+    "pwc_search_page": {
+      "name": "PWC Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.pwctrader.com/pwcs-for-sale"
+    },
+    "pwc_advance_search_page": {
+      "name": "PWC Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.pwctrader.com/find-pwcs-for-sale?"
+    },
+    "pwc_dealer_page": {
+      "name": "PWC Trader 'DEALER PAGE'",
+      "url": "https://{env}.pwctrader.com/pwc-dealers"
+    },
+    "pwc_dealer_group_page": {
+      "name": "PWC Trader 'DEALER GROUP PAGE'",
+      "url": "https://{env}.pwctrader.com/dealergroups/detail/5000000911?"
+    },
+    "pwc_dealer_gallery_page": {
+      "name": "PWC Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.pwctrader.com/pwc-dealers/detail/TraderCycle-2896268?dealerid=2896268"
+    },
+    "pwc_vdp_dev":{
+      "name": "PWC Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.pwctrader.com/listing/2021-Yamaha-GTI+LE-5015436229"
+    },
+    "pwc_vdp_prod":{
+      "name": "PWC Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.pwctrader.com/listing/2023-Kawasaki-Jet+Ski+STX+160-5030062407"
+    },
+    "make_input": [
+      "Kawasaki",
+      "Sea-Doo",
+      "Can-Am"
+    ],
+    "pop_make": "Sea-Doo",
+    "dealer_name_input": "Chaparral Motorsports",
+    "model_input": "fish pro",
+    "keyword_input": "kar"
+  },
+  "snowmobile": {
+    "snowmobile_home_page": {
+      "name": "Snowmobile Trader 'HOMEPAGE'",
+      "url": "https://{env}.snowmobiletrader.com/"
+    },
+    "snowmobile_search_page": {
+      "name": "Snowmobile Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.snowmobiletrader.com/snowmobiles-for-sale"
+    },
+    "snowmobile_advance_search_page": {
+      "name": "Snowmobile Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.snowmobiletrader.com/find-snowmobiles-for-sale?"
+    },
+    "snowmobile_dealer_page": {
+      "name": "Snowmobile Trader 'DEALER PAGE'",
+      "url": "https://{env}.snowmobiletrader.com/snowmobile-dealers"
+    },
+    "snowmobile_dealer_group_page": {
+      "name": "Snowmobile Trader 'DEALER GROUP PAGE'",
+      "url": "https://{env}.snowmobiletrader.com/dealergroups/detail/5000000911?"
+    },
+    "snowmobile_dealer_gallery_page": {
+      "name": "Snowmobile Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.snowmobiletrader.com/snowmobile-dealers/detail/TraderCycle-2896268?dealerid=2896268"
+    },
+    "snowmobile_vdp_dev":{
+      "name": "Snowmobile Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.snowmobiletrader.com/listing/2023-Arctic+Cat-Blast+LT+4000+ES-5015485904"
+    },
+    "snowmobile_vdp_prod":{
+      "name": "Snowmobile Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.snowmobiletrader.com/listing/2023-Polaris-120+Indy-5031735727"
+    },
+    "make_input": [
+      "Polaris",
+      "Ski-Doo",
+      "Arctic Cat"
+    ],
+    "pop_make": "Polaris",
+    "model_input": "backcountry",
+    "dealer_name_input": "ABC Cycle Dealer(Demo Dealer)",
+    "keyword_input": "kar"
+  },
+  "aero": {
+    "aero_home_page": {
+      "name": "AERO Trader 'HOMEPAGE'",
+      "url": "https://{env}.aerotrader.com/"
+    },
+    "aero_search_page": {
+      "name": "AERO Trader 'SEARCH RESULT PAGE',",
+      "url": "https://{env}.aerotrader.com/aircraft-for-sale"
+    },
+    "aero_advance_search_page": {
+      "name": "AERO Trader 'ADVANCE SEARCH RESULT PAGE'",
+      "url": "https://{env}.aerotrader.com/find-aircraft-for-sale?"
+    },
+    "aero_dealer_page": {
+      "name": "AERO Trader 'DEALER PAGE'",
+      "url": "https://{env}.aerotrader.com/aircraft-dealers"
+    },
+    "aero_dealer_group_page": {
+      "name": "AERO Trader 'DEALER GROUP PAGE'",
+      "url": ""
+    },
+    "aero_dealer_gallery_page": {
+      "name": "AERO Trader 'DEALER GALLERY PAGE'",
+      "url": "https://{env}.aerotrader.com/aircraft-dealers/detail/AeroTrader+Demo+Account-730127?dealerid=730127"
+    },
+    "aero_vdp_dev":{
+      "name": "AERO Trader 'VEHICLE DETAILING PAGE' (dev)",
+      "url": "https://{env}.aerotrader.com/listing/1957-Convair-CV-580-5014123507"
+    },
+    "aero_vdp_prod":{
+      "name": "AERO Trader 'VEHICLE DETAILING PAGE' (prod)",
+      "url": "https://{env}.aerotrader.com/listing/2019-Grumman-AO-1+MOHAWK-5031653943"
+    },
+    "make_input": [
+      "Beechcraft",
+      "Cessna",
+      "Piper",
+      "Robinson Helicopter",
+      "Rotorway"
+    ],
+    "pop_make": "Cessna",
+    "model_input": "sky",
+    "dealer_name_input": "Hudson Flight",
+    "keyword_input": "ot"
+  },
+  "zip": {
+    "fleming_island_florida": "32003", 
+    "norfolk_virginia": "23510",
+    "near_me": "Near Me"
+  },
+  "radius": "250",
+  "traxx_login_url": "https://dealers.traderinteractive.com/tradertraxx/login",
+  "max_tests_to_rerun": 60,
+  "min_year": "2012",
+  "max_year": "2022",
+  "min_price": 5000,
+  "max_price": 50000,
+  "min_mileage": "200",
+  "max_mileage": "400",
+  "min_rental_price": "2000",
+  "max_rental_price": "40000",
+  "min_trailer_length": "26",
+  "max_trailer_length": "44",
+  "min_trailer_width": "5",
+  "max_trailer_width": "10",
+  "min_trailer_gvrw": "2000",
+  "max_trailer_gvrw": "4000",
+  "exp_listing_count": 38,
+  "exp_listing_count_on_snowmobile": 20,
+  "radius_values": {
+    "radius_nationwide": "Nationwide",
+    "radius_150_miles": "150",
+    "radius_500_miles": "500",
+    "within_zip": "1"
+  },
+  "state_names": {
+    "CA": "California"
+  },
+  "geoloc_coord":{
+    "norfolk_virginia": {
+      "lat": 36.8827648,
+      "long": -76.305467
+    }
+  },
+  "city_name": "fleming",
+  "city_with_state": "Fleming Island, Florida",
+  "dr_app_dev_env_url": "https://ui.digiret.dev.tilabs.tech/my-details/", 
+  "dlr_logn_btn_rel_pos_range": {
+    "min": 27,
+    "max": 29.5
+  },
+  "vert_dist_bw_hdr_n_dlr_log_btn_mob": 80,
+  "dlr_logn_btn_text_clr": "rgba(0, 0, 0, 1)",
+  "dlr_logn_btn_bkgd_clr": "rgba(255, 255, 255, 0.9)",
+  "email_leads":{
+    "first_name": "Test",
+    "last_name": "User",
+    "phone_num": "1234567890",
+    "text_msg": "Test message",
+    "vehl_condition": "Good",
+    "friend_mail": "test@email.com",
+    "alerts_txt":{
+      "captcha": "Please complete the captcha"
+    }
+  }
+}

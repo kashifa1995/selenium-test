@@ -1,0 +1,12 @@
+.venv/
+.env
+.idea
+.pytest_cache
+allure_results*/
+**/__pycache__/
+.vscode
+/src/config/token.json
+/src/config/credentials.json
+.wdm
+allure-*/
+.DS_store
